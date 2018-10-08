@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D8D01EF5-F04B-4614-BC81-1FB5C69D0AC9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HuaQuant.Data.GM</RootNamespace>
+    <AssemblyName>GMQueryDataProvider</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="SmartQuant">
+      <HintPath>H:\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartQuant.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=844f265c18b031f9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>H:\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartQuant.FIX">
+      <HintPath>H:\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.FIX.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartQuant.Instruments">
+      <HintPath>H:\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.Instruments.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartQuant.Providers">
+      <HintPath>H:\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.Providers.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartQuant.Series, Version=1.0.2919.25577, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>H:\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.Series.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GMBarFactory.cs" />
+    <Compile Include="GMQueryDataProvider.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GMAPI2.9\GMAPI2.9.csproj">
+      <Project>{65cc1f0d-bd72-44c3-8154-89d6d16a6116}</Project>
+      <Name>GMAPI2.9</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GMDataType\GMDataType.csproj">
+      <Project>{de71344a-b8e4-4d25-87e6-ed4d052b669e}</Project>
+      <Name>GMDataType</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

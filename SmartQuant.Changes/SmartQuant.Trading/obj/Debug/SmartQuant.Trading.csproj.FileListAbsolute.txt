@@ -1,0 +1,37 @@
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SmartQuant.Trading\obj\Debug\SmartQuant.Trading.csprojResolveAssemblyReference.cache
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SmartQuant.Trading\obj\Debug\SmartQuant.Trading.Design.NewRequestForm.resources
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SmartQuant.Trading\obj\Debug\SmartQuant.Trading.csproj.GenerateResource.Cache
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SmartQuant.Trading\bin\Debug\SmartQuant.Trading.dll
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SmartQuant.Trading\bin\Debug\SmartQuant.Trading.pdb
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SmartQuant.Trading\bin\Debug\SmartQuant.Charting.dll
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SmartQuant.Trading\bin\Debug\SmartQuant.Data.dll
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SmartQuant.Trading\bin\Debug\SmartQuant.dll
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SmartQuant.Trading\bin\Debug\SmartQuant.Execution.dll
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SmartQuant.Trading\bin\Debug\SmartQuant.FIX.dll
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SmartQuant.Trading\bin\Debug\SmartQuant.FIXData.dll
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SmartQuant.Trading\bin\Debug\SmartQuant.Instruments.dll
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SmartQuant.Trading\bin\Debug\SmartQuant.Optimization.dll
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SmartQuant.Trading\bin\Debug\SmartQuant.Providers.dll
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SmartQuant.Trading\bin\Debug\SmartQuant.Series.dll
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SmartQuant.Trading\bin\Debug\SmartQuant.Services.dll
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SmartQuant.Trading\bin\Debug\SmartQuant.Simulation.dll
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SmartQuant.Trading\bin\Debug\SmartQuant.Testing.dll
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SmartQuant.Trading\bin\Debug\SmartQuant.Quant.dll
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SmartQuant.Trading\bin\Debug\SmartQuant.File.dll
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SmartQuant.Trading\bin\Debug\SmartQuant.Business.dll
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SmartQuant.Trading\bin\Debug\SmartQuant.Xml.dll
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SmartQuant.Trading\bin\Debug\SharpZipLib.dll
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SmartQuant.Trading\obj\Debug\SmartQuant.Trading.dll
+C:\Users\chs\Documents\Visual Studio 2015\Projects\SmartQuant.Trading\obj\Debug\SmartQuant.Trading.pdb
+E:\Finance\SmartQuant.Changes\SmartQuant.Trading\bin\Debug\SmartQuant.Trading.dll
+E:\Finance\SmartQuant.Changes\SmartQuant.Trading\bin\Debug\SmartQuant.Trading.pdb
+E:\Finance\SmartQuant.Changes\SmartQuant.Trading\bin\Debug\SmartQuant.Quant.dll
+E:\Finance\SmartQuant.Changes\SmartQuant.Trading\bin\Debug\SmartQuant.File.dll
+E:\Finance\SmartQuant.Changes\SmartQuant.Trading\bin\Debug\SmartQuant.Business.dll
+E:\Finance\SmartQuant.Changes\SmartQuant.Trading\bin\Debug\SmartQuant.Xml.dll
+E:\Finance\SmartQuant.Changes\SmartQuant.Trading\bin\Debug\SharpZipLib.dll
+E:\Finance\SmartQuant.Changes\SmartQuant.Trading\obj\Debug\SmartQuant.Trading.csprojResolveAssemblyReference.cache
+E:\Finance\SmartQuant.Changes\SmartQuant.Trading\obj\Debug\SmartQuant.Trading.Design.NewRequestForm.resources
+E:\Finance\SmartQuant.Changes\SmartQuant.Trading\obj\Debug\SmartQuant.Trading.csproj.GenerateResource.Cache
+E:\Finance\SmartQuant.Changes\SmartQuant.Trading\obj\Debug\SmartQuant.Trading.dll
+E:\Finance\SmartQuant.Changes\SmartQuant.Trading\obj\Debug\SmartQuant.Trading.pdb

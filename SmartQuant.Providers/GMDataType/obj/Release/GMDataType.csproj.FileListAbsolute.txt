@@ -1,0 +1,27 @@
+C:\Users\Administrator\documents\visual studio 2012\Projects\GMApiTest\GMDataType\bin\Release\GMDataType.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\GMApiTest\GMDataType\bin\Release\GMDataType.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\GMApiTest\GMDataType\bin\Release\SmartQuant.Data.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\GMApiTest\GMDataType\obj\Release\GMDataType.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\GMApiTest\GMDataType\obj\Release\GMDataType.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\GMApiTest\GMDataType\obj\Release\GMDataType.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMDataType\bin\Release\GMDataType.dll
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMDataType\bin\Release\GMDataType.pdb
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMDataType\obj\Release\GMDataType.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMDataType\obj\Release\GMDataType.dll
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMDataType\obj\Release\GMDataType.pdb
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMDataType\bin\Release\GMAPI.dll
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMDataType\bin\Release\GMAPI.pdb
+E:\Finance\GMAPI2Test\GMDataType\bin\Release\GMDataType.dll
+E:\Finance\GMAPI2Test\GMDataType\bin\Release\GMDataType.pdb
+E:\Finance\GMAPI2Test\GMDataType\bin\Release\GMAPI29.dll
+E:\Finance\GMAPI2Test\GMDataType\bin\Release\GMAPI29.pdb
+E:\Finance\GMAPI2Test\GMDataType\obj\Release\GMDataType.csprojResolveAssemblyReference.cache
+E:\Finance\GMAPI2Test\GMDataType\obj\Release\GMDataType.dll
+E:\Finance\GMAPI2Test\GMDataType\obj\Release\GMDataType.pdb
+E:\Finance\SmartQuant.Providers\GMDataType\bin\Release\GMDataType.dll
+E:\Finance\SmartQuant.Providers\GMDataType\bin\Release\GMDataType.pdb
+E:\Finance\SmartQuant.Providers\GMDataType\bin\Release\GMAPI29.dll
+E:\Finance\SmartQuant.Providers\GMDataType\bin\Release\GMAPI29.pdb
+E:\Finance\SmartQuant.Providers\GMDataType\obj\Release\GMDataType.csprojResolveAssemblyReference.cache
+E:\Finance\SmartQuant.Providers\GMDataType\obj\Release\GMDataType.dll
+E:\Finance\SmartQuant.Providers\GMDataType\obj\Release\GMDataType.pdb

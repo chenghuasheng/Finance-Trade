@@ -1,0 +1,45 @@
+c:\users\tianz\Documents\Visual Studio 2015\Projects\TradeTest\TradeTest\bin\Release\TradeTest.exe
+c:\users\tianz\Documents\Visual Studio 2015\Projects\TradeTest\TradeTest\bin\Release\TradeTest.pdb
+c:\users\tianz\Documents\Visual Studio 2015\Projects\TradeTest\TradeTest\obj\Release\TradeTest.csprojResolveAssemblyReference.cache
+c:\users\tianz\Documents\Visual Studio 2015\Projects\TradeTest\TradeTest\obj\Release\TradeTest.exe
+c:\users\tianz\Documents\Visual Studio 2015\Projects\TradeTest\TradeTest\obj\Release\TradeTest.pdb
+E:\Finance\TradeTest\TradeTest\obj\Release\TradeTest.exe
+E:\Finance\TradeTest\TradeTest\obj\Release\TradeTest.pdb
+E:\Finance\TradeTest\TradeTest\bin\Release\TradeTest.exe
+E:\Finance\TradeTest\TradeTest\bin\Release\TradeTest.pdb
+E:\Finance\TradeTest\TradeTest\bin\Release\TDXTradeProvider.dll
+E:\Finance\TradeTest\TradeTest\bin\Release\SmartQuant.Providers.dll
+E:\Finance\TradeTest\TradeTest\bin\Release\SmartQuant.FIX.dll
+E:\Finance\TradeTest\TradeTest\bin\Release\SmartQuant.Execution.dll
+E:\Finance\TradeTest\TradeTest\bin\Release\SmartQuant.Data.dll
+E:\Finance\TradeTest\TradeTest\bin\Release\SmartQuant.dll
+E:\Finance\TradeTest\TradeTest\bin\Release\SmartQuant.FIXData.dll
+E:\Finance\TradeTest\TradeTest\bin\Release\SmartQuant.Series.dll
+E:\Finance\TradeTest\TradeTest\bin\Release\SmartQuant.Charting.dll
+E:\Finance\TradeTest\TradeTest\bin\Release\SmartQuant.File.dll
+E:\Finance\TradeTest\TradeTest\bin\Release\SmartQuant.Services.dll
+E:\Finance\TradeTest\TradeTest\bin\Release\SmartQuant.Quant.dll
+E:\Finance\TradeTest\TradeTest\bin\Release\SharpZipLib.dll
+E:\Finance\TradeTest\TradeTest\bin\Release\SmartQuant.Xml.dll
+E:\Finance\TradeTest\TradeTest\bin\Release\TDXTradeProvider.pdb
+E:\Finance\TradeTest\TradeTest\obj\Release\TradeTest.csprojResolveAssemblyReference.cache
+E:\Finance\SmartQuant.Providers\TradeTest\obj\Release\TradeTest.exe
+E:\Finance\SmartQuant.Providers\TradeTest\obj\Release\TradeTest.pdb
+E:\Finance\SmartQuant.Providers\TradeTest\obj\Release\TradeTest.csprojResolveAssemblyReference.cache
+E:\Finance\SmartQuant.Providers\TradeTest\bin\Release\TradeTest.exe
+E:\Finance\SmartQuant.Providers\TradeTest\bin\Release\TradeTest.pdb
+E:\Finance\SmartQuant.Providers\TradeTest\bin\Release\TDXTradeProvider.dll
+E:\Finance\SmartQuant.Providers\TradeTest\bin\Release\SmartQuant.Providers.dll
+E:\Finance\SmartQuant.Providers\TradeTest\bin\Release\SmartQuant.FIX.dll
+E:\Finance\SmartQuant.Providers\TradeTest\bin\Release\SmartQuant.Execution.dll
+E:\Finance\SmartQuant.Providers\TradeTest\bin\Release\SmartQuant.dll
+E:\Finance\SmartQuant.Providers\TradeTest\bin\Release\SmartQuant.Data.dll
+E:\Finance\SmartQuant.Providers\TradeTest\bin\Release\SmartQuant.FIXData.dll
+E:\Finance\SmartQuant.Providers\TradeTest\bin\Release\SmartQuant.Services.dll
+E:\Finance\SmartQuant.Providers\TradeTest\bin\Release\SmartQuant.Series.dll
+E:\Finance\SmartQuant.Providers\TradeTest\bin\Release\SmartQuant.Charting.dll
+E:\Finance\SmartQuant.Providers\TradeTest\bin\Release\SmartQuant.File.dll
+E:\Finance\SmartQuant.Providers\TradeTest\bin\Release\SmartQuant.Xml.dll
+E:\Finance\SmartQuant.Providers\TradeTest\bin\Release\SmartQuant.Quant.dll
+E:\Finance\SmartQuant.Providers\TradeTest\bin\Release\SharpZipLib.dll
+E:\Finance\SmartQuant.Providers\TradeTest\bin\Release\TDXTradeProvider.pdb

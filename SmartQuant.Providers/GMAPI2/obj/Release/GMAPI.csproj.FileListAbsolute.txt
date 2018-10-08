@@ -1,0 +1,9 @@
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMAPI2\bin\Release\GMAPI.dll
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMAPI2\bin\Release\GMAPI.pdb
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMAPI2\obj\Release\GMAPI.dll
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMAPI2\obj\Release\GMAPI.pdb
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMAPI2\obj\Release\GMAPI.csprojResolveAssemblyReference.cache
+E:\Finance\GMAPI2Test\GMAPI2\bin\Release\GMAPI.dll
+E:\Finance\GMAPI2Test\GMAPI2\bin\Release\GMAPI.pdb
+E:\Finance\GMAPI2Test\GMAPI2\obj\Release\GMAPI.dll
+E:\Finance\GMAPI2Test\GMAPI2\obj\Release\GMAPI.pdb

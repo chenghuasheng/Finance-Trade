@@ -1,0 +1,10 @@
+E:\Finance\SmartQuant.Providers\GMAPI2Test\bin\Debug\GMAPI2Test.exe
+E:\Finance\SmartQuant.Providers\GMAPI2Test\bin\Debug\GMAPI2Test.pdb
+E:\Finance\SmartQuant.Providers\GMAPI2Test\bin\Debug\GMAPI29.dll
+E:\Finance\SmartQuant.Providers\GMAPI2Test\bin\Debug\GMAPI29.pdb
+E:\Finance\SmartQuant.Providers\GMAPI2Test\obj\Debug\GMAPI2Test.csprojResolveAssemblyReference.cache
+E:\Finance\SmartQuant.Providers\GMAPI2Test\obj\Debug\GMAPI2Test.Form1.resources
+E:\Finance\SmartQuant.Providers\GMAPI2Test\obj\Debug\GMAPI2Test.Properties.Resources.resources
+E:\Finance\SmartQuant.Providers\GMAPI2Test\obj\Debug\GMAPI2Test.csproj.GenerateResource.Cache
+E:\Finance\SmartQuant.Providers\GMAPI2Test\obj\Debug\GMAPI2Test.exe
+E:\Finance\SmartQuant.Providers\GMAPI2Test\obj\Debug\GMAPI2Test.pdb

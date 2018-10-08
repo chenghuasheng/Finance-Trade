@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{F4C80917-F541-4A34-9D05-BB07FBB429BE}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Library</OutputType>
+    <AssemblyName>SmartQuant.Simulation</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <WarningLevel>4</WarningLevel>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="SmartQuant.File, Version=2.1.0.0, Culture=neutral, PublicKeyToken=ef2cf9f090c37083, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.File.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartQuant.Services">
+      <HintPath>C:\Program Files (x86)\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="SmartQuant.Xml">
+      <HintPath>C:\Program Files (x86)\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="SmartQuant.Providers">
+      <HintPath>C:\Program Files (x86)\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.Providers.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartQuant.Data">
+      <HintPath>C:\Program Files (x86)\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartQuant.FIX">
+      <HintPath>C:\Program Files (x86)\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.FIX.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartQuant.Instruments">
+      <HintPath>C:\Program Files (x86)\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.Instruments.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartQuant">
+      <HintPath>C:\Program Files (x86)\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartQuant.Execution">
+      <HintPath>C:\Program Files (x86)\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.Execution.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartQuant.FIXData">
+      <HintPath>C:\Program Files (x86)\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.FIXData.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="SmartQuant.Simulation.Design\BarFilterItemListEditor.cs" />
+    <Compile Include="SmartQuant.Simulation.Design\BarFilterTypeConverter.cs" />
+    <Compile Include="SmartQuant.Simulation.Design\CommissionProviderTypeConverter.cs" />
+    <Compile Include="SmartQuant.Simulation.Design\DataSeriesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SmartQuant.Simulation.Design\DataSeriesListEditor.cs" />
+    <Compile Include="SmartQuant.Simulation.Design\DataSeriesViewItem.cs" />
+    <Compile Include="SmartQuant.Simulation.Design\InstrumentItem.cs" />
+    <Compile Include="SmartQuant.Simulation.Design\OrderEntryDetailsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SmartQuant.Simulation.Design\OrderEntryListComparer.cs" />
+    <Compile Include="SmartQuant.Simulation.Design\OrderEntryListEditor.cs" />
+    <Compile Include="SmartQuant.Simulation.Design\OrderEntryListEditorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SmartQuant.Simulation.Design\OrderEntryViewItem.cs" />
+    <Compile Include="SmartQuant.Simulation.Design\SimulatorEditorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SmartQuant.Simulation.Design\SimulatorTypeEditor.cs" />
+    <Compile Include="SmartQuant.Simulation.Design\SlippageProviderTypeConverter.cs" />
+    <Compile Include="SmartQuant.Simulation.Properties\Resources.cs" />
+    <Compile Include="SmartQuant.Simulation.Xml\OrderEntryListXmlNode.cs" />
+    <Compile Include="SmartQuant.Simulation.Xml\OrderEntryXmlNode.cs" />
+    <Compile Include="SmartQuant.Simulation.Xml\SimulationExecutionServiceXmlDocument.cs" />
+    <Compile Include="SmartQuant.Simulation\BarFilter.cs" />
+    <Compile Include="SmartQuant.Simulation\BarFilterItem.cs" />
+    <Compile Include="SmartQuant.Simulation\BarObject.cs" />
+    <Compile Include="SmartQuant.Simulation\CommissionProvider.cs" />
+    <Compile Include="SmartQuant.Simulation\CustomCommissionProvider.cs" />
+    <Compile Include="SmartQuant.Simulation\ExceptionEventArgs.cs" />
+    <Compile Include="SmartQuant.Simulation\ExceptionEventHandler.cs" />
+    <Compile Include="SmartQuant.Simulation\FillOnBarMode.cs" />
+    <Compile Include="SmartQuant.Simulation\FillOnQuoteMode.cs" />
+    <Compile Include="SmartQuant.Simulation\FillOnTradeMode.cs" />
+    <Compile Include="SmartQuant.Simulation\ICommissionProvider.cs" />
+    <Compile Include="SmartQuant.Simulation\Interval.cs" />
+    <Compile Include="SmartQuant.Simulation\IntervalEventArgs.cs" />
+    <Compile Include="SmartQuant.Simulation\IntervalEventHandler.cs" />
+    <Compile Include="SmartQuant.Simulation\IntervalList.cs" />
+    <Compile Include="SmartQuant.Simulation\ISlippageProvider.cs" />
+    <Compile Include="SmartQuant.Simulation\OrderEntry.cs" />
+    <Compile Include="SmartQuant.Simulation\OrderEntryList.cs" />
+    <Compile Include="SmartQuant.Simulation\QueueEntry.cs" />
+    <Compile Include="SmartQuant.Simulation\QueueEntry2.cs" />
+    <Compile Include="SmartQuant.Simulation\SeriesObjectEventArgs.cs" />
+    <Compile Include="SmartQuant.Simulation\SeriesObjectEventHandler.cs" />
+    <Compile Include="SmartQuant.Simulation\SimulationDataProvider.cs" />
+    <Compile Include="SmartQuant.Simulation\SimulationExecutionProcessor.cs" />
+    <Compile Include="SmartQuant.Simulation\SimulationExecutionProvider.cs" />
+    <Compile Include="SmartQuant.Simulation\SimulationExecutionService.cs" />
+    <Compile Include="SmartQuant.Simulation\SimulationMode.cs" />
+    <Compile Include="SmartQuant.Simulation\Simulator.cs" />
+    <Compile Include="SmartQuant.Simulation\SimulatorState.cs" />
+    <Compile Include="SmartQuant.Simulation\SlippageProvider.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="SmartQuant.Simulation.Design\DataSeriesForm.resources" />
+    <EmbeddedResource Include="SmartQuant.Simulation.Design\OrderEntryDetailsForm.resources" />
+    <EmbeddedResource Include="SmartQuant.Simulation.Design\OrderEntryListEditorForm.resources" />
+    <EmbeddedResource Include="SmartQuant.Simulation.Design\SimulatorEditorForm.resources" />
+    <EmbeddedResource Include="SmartQuant.Simulation.Properties\Resources.resources" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

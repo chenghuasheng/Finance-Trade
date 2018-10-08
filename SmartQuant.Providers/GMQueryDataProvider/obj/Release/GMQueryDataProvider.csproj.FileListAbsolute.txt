@@ -1,0 +1,38 @@
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMQueryDataProvider\bin\Release\GMQueryDataProvider.dll
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMQueryDataProvider\bin\Release\GMQueryDataProvider.pdb
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMQueryDataProvider\bin\Release\GMAPI.dll
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMQueryDataProvider\bin\Release\SmartQuant.dll
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMQueryDataProvider\bin\Release\SmartQuant.FIX.dll
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMQueryDataProvider\bin\Release\SmartQuant.Instruments.dll
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMQueryDataProvider\bin\Release\SmartQuant.Providers.dll
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMQueryDataProvider\bin\Release\SmartQuant.Charting.dll
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMQueryDataProvider\bin\Release\SmartQuant.Series.dll
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMQueryDataProvider\bin\Release\SmartQuant.Data.dll
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMQueryDataProvider\bin\Release\SmartQuant.FIXData.dll
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMQueryDataProvider\bin\Release\SmartQuant.File.dll
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMQueryDataProvider\bin\Release\SmartQuant.Quant.dll
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMQueryDataProvider\bin\Release\SharpZipLib.dll
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMQueryDataProvider\bin\Release\GMAPI.pdb
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMQueryDataProvider\obj\Release\GMQueryDataProvider.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMQueryDataProvider\obj\Release\GMQueryDataProvider.dll
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMQueryDataProvider\obj\Release\GMQueryDataProvider.pdb
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMQueryDataProvider\bin\Release\GMDataType.dll
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMQueryDataProvider\bin\Release\GMDataType.pdb
+E:\Finance\GMAPI2Test\GMQueryDataProvider\bin\Release\GMQueryDataProvider.dll
+E:\Finance\GMAPI2Test\GMQueryDataProvider\bin\Release\GMQueryDataProvider.pdb
+E:\Finance\GMAPI2Test\GMQueryDataProvider\bin\Release\GMAPI29.dll
+E:\Finance\GMAPI2Test\GMQueryDataProvider\bin\Release\GMDataType.dll
+E:\Finance\GMAPI2Test\GMQueryDataProvider\bin\Release\GMAPI29.pdb
+E:\Finance\GMAPI2Test\GMQueryDataProvider\bin\Release\GMDataType.pdb
+E:\Finance\GMAPI2Test\GMQueryDataProvider\obj\Release\GMQueryDataProvider.csprojResolveAssemblyReference.cache
+E:\Finance\GMAPI2Test\GMQueryDataProvider\obj\Release\GMQueryDataProvider.dll
+E:\Finance\GMAPI2Test\GMQueryDataProvider\obj\Release\GMQueryDataProvider.pdb
+E:\Finance\SmartQuant.Providers\GMQueryDataProvider\bin\Release\GMQueryDataProvider.dll
+E:\Finance\SmartQuant.Providers\GMQueryDataProvider\bin\Release\GMQueryDataProvider.pdb
+E:\Finance\SmartQuant.Providers\GMQueryDataProvider\bin\Release\GMAPI29.dll
+E:\Finance\SmartQuant.Providers\GMQueryDataProvider\bin\Release\GMDataType.dll
+E:\Finance\SmartQuant.Providers\GMQueryDataProvider\bin\Release\GMAPI29.pdb
+E:\Finance\SmartQuant.Providers\GMQueryDataProvider\bin\Release\GMDataType.pdb
+E:\Finance\SmartQuant.Providers\GMQueryDataProvider\obj\Release\GMQueryDataProvider.csprojResolveAssemblyReference.cache
+E:\Finance\SmartQuant.Providers\GMQueryDataProvider\obj\Release\GMQueryDataProvider.dll
+E:\Finance\SmartQuant.Providers\GMQueryDataProvider\obj\Release\GMQueryDataProvider.pdb

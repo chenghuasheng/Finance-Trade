@@ -1,0 +1,30 @@
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMAPI2Test\bin\Release\GMAPI2Test.exe
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMAPI2Test\bin\Release\GMAPI2Test.pdb
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMAPI2Test\bin\Release\GMAPI.dll
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMAPI2Test\bin\Release\GMAPI.pdb
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMAPI2Test\obj\Release\GMAPI2Test.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMAPI2Test\obj\Release\GMAPI2Test.Properties.Resources.resources
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMAPI2Test\obj\Release\GMAPI2Test.csproj.GenerateResource.Cache
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMAPI2Test\obj\Release\GMAPI2Test.exe
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMAPI2Test\obj\Release\GMAPI2Test.pdb
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMAPI2Test\obj\Release\GMAPI2Test.Form1.resources
+E:\Finance\GMAPI2Test\GMAPI2Test\bin\Release\GMAPI2Test.exe
+E:\Finance\GMAPI2Test\GMAPI2Test\bin\Release\GMAPI2Test.pdb
+E:\Finance\GMAPI2Test\GMAPI2Test\bin\Release\GMAPI29.dll
+E:\Finance\GMAPI2Test\GMAPI2Test\bin\Release\GMAPI29.pdb
+E:\Finance\GMAPI2Test\GMAPI2Test\obj\Release\GMAPI2Test.csprojResolveAssemblyReference.cache
+E:\Finance\GMAPI2Test\GMAPI2Test\obj\Release\GMAPI2Test.Form1.resources
+E:\Finance\GMAPI2Test\GMAPI2Test\obj\Release\GMAPI2Test.Properties.Resources.resources
+E:\Finance\GMAPI2Test\GMAPI2Test\obj\Release\GMAPI2Test.csproj.GenerateResource.Cache
+E:\Finance\GMAPI2Test\GMAPI2Test\obj\Release\GMAPI2Test.exe
+E:\Finance\GMAPI2Test\GMAPI2Test\obj\Release\GMAPI2Test.pdb
+E:\Finance\SmartQuant.Providers\GMAPI2Test\obj\Release\GMAPI2Test.exe
+E:\Finance\SmartQuant.Providers\GMAPI2Test\obj\Release\GMAPI2Test.pdb
+E:\Finance\SmartQuant.Providers\GMAPI2Test\bin\Release\GMAPI2Test.exe
+E:\Finance\SmartQuant.Providers\GMAPI2Test\bin\Release\GMAPI2Test.pdb
+E:\Finance\SmartQuant.Providers\GMAPI2Test\bin\Release\GMAPI29.dll
+E:\Finance\SmartQuant.Providers\GMAPI2Test\bin\Release\GMAPI29.pdb
+E:\Finance\SmartQuant.Providers\GMAPI2Test\obj\Release\GMAPI2Test.csprojResolveAssemblyReference.cache
+E:\Finance\SmartQuant.Providers\GMAPI2Test\obj\Release\GMAPI2Test.Form1.resources
+E:\Finance\SmartQuant.Providers\GMAPI2Test\obj\Release\GMAPI2Test.Properties.Resources.resources
+E:\Finance\SmartQuant.Providers\GMAPI2Test\obj\Release\GMAPI2Test.csproj.GenerateResource.Cache

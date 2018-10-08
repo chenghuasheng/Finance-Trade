@@ -1,0 +1,45 @@
+F:\Documents\Visual Studio 2015\Projects\SmartQuant.Simulation\bin\Release\SmartQuant.Simulation.dll
+F:\Documents\Visual Studio 2015\Projects\SmartQuant.Simulation\bin\Release\SmartQuant.Simulation.pdb
+F:\Documents\Visual Studio 2015\Projects\SmartQuant.Simulation\bin\Release\SmartQuant.Data.dll
+F:\Documents\Visual Studio 2015\Projects\SmartQuant.Simulation\bin\Release\SmartQuant.dll
+F:\Documents\Visual Studio 2015\Projects\SmartQuant.Simulation\bin\Release\SmartQuant.Execution.dll
+F:\Documents\Visual Studio 2015\Projects\SmartQuant.Simulation\bin\Release\SmartQuant.FIX.dll
+F:\Documents\Visual Studio 2015\Projects\SmartQuant.Simulation\bin\Release\SmartQuant.FIXData.dll
+F:\Documents\Visual Studio 2015\Projects\SmartQuant.Simulation\bin\Release\SmartQuant.Instruments.dll
+F:\Documents\Visual Studio 2015\Projects\SmartQuant.Simulation\bin\Release\SmartQuant.Providers.dll
+F:\Documents\Visual Studio 2015\Projects\SmartQuant.Simulation\bin\Release\SmartQuant.Services.dll
+F:\Documents\Visual Studio 2015\Projects\SmartQuant.Simulation\bin\Release\SmartQuant.Xml.dll
+F:\Documents\Visual Studio 2015\Projects\SmartQuant.Simulation\bin\Release\SmartQuant.Charting.dll
+F:\Documents\Visual Studio 2015\Projects\SmartQuant.Simulation\bin\Release\SmartQuant.Series.dll
+F:\Documents\Visual Studio 2015\Projects\SmartQuant.Simulation\bin\Release\SmartQuant.File.dll
+F:\Documents\Visual Studio 2015\Projects\SmartQuant.Simulation\bin\Release\SmartQuant.Quant.dll
+F:\Documents\Visual Studio 2015\Projects\SmartQuant.Simulation\bin\Release\SharpZipLib.dll
+F:\Documents\Visual Studio 2015\Projects\SmartQuant.Simulation\obj\Release\SmartQuant.Simulation.dll
+F:\Documents\Visual Studio 2015\Projects\SmartQuant.Simulation\obj\Release\SmartQuant.Simulation.pdb
+F:\Documents\Visual Studio 2015\Projects\SmartQuant.Simulation\obj\Release\SmartQuant.Simulation.csprojResolveAssemblyReference.cache
+E:\Finance\SmartQuant.Simulation\obj\Release\SmartQuant.Simulation.dll
+E:\Finance\SmartQuant.Simulation\obj\Release\SmartQuant.Simulation.pdb
+E:\Finance\SmartQuant.Simulation\bin\Release\SmartQuant.Simulation.dll
+E:\Finance\SmartQuant.Simulation\bin\Release\SmartQuant.Simulation.pdb
+E:\Finance\SmartQuant.Simulation\bin\Release\SmartQuant.File.dll
+E:\Finance\SmartQuant.Simulation\bin\Release\SharpZipLib.dll
+E:\Finance\SmartQuant.Simulation\obj\Release\SmartQuant.Simulation.csprojResolveAssemblyReference.cache
+E:\Finance\SmartQuant.Changes\SmartQuant.Simulation\bin\Release\SmartQuant.Simulation.dll
+E:\Finance\SmartQuant.Changes\SmartQuant.Simulation\bin\Release\SmartQuant.Simulation.pdb
+E:\Finance\SmartQuant.Changes\SmartQuant.Simulation\bin\Release\SmartQuant.Data.dll
+E:\Finance\SmartQuant.Changes\SmartQuant.Simulation\bin\Release\SmartQuant.dll
+E:\Finance\SmartQuant.Changes\SmartQuant.Simulation\bin\Release\SmartQuant.Execution.dll
+E:\Finance\SmartQuant.Changes\SmartQuant.Simulation\bin\Release\SmartQuant.File.dll
+E:\Finance\SmartQuant.Changes\SmartQuant.Simulation\bin\Release\SmartQuant.FIX.dll
+E:\Finance\SmartQuant.Changes\SmartQuant.Simulation\bin\Release\SmartQuant.FIXData.dll
+E:\Finance\SmartQuant.Changes\SmartQuant.Simulation\bin\Release\SmartQuant.Instruments.dll
+E:\Finance\SmartQuant.Changes\SmartQuant.Simulation\bin\Release\SmartQuant.Providers.dll
+E:\Finance\SmartQuant.Changes\SmartQuant.Simulation\bin\Release\SmartQuant.Services.dll
+E:\Finance\SmartQuant.Changes\SmartQuant.Simulation\bin\Release\SmartQuant.Xml.dll
+E:\Finance\SmartQuant.Changes\SmartQuant.Simulation\bin\Release\SharpZipLib.dll
+E:\Finance\SmartQuant.Changes\SmartQuant.Simulation\bin\Release\SmartQuant.Charting.dll
+E:\Finance\SmartQuant.Changes\SmartQuant.Simulation\bin\Release\SmartQuant.Series.dll
+E:\Finance\SmartQuant.Changes\SmartQuant.Simulation\bin\Release\SmartQuant.Quant.dll
+E:\Finance\SmartQuant.Changes\SmartQuant.Simulation\obj\Release\SmartQuant.Simulation.csprojResolveAssemblyReference.cache
+E:\Finance\SmartQuant.Changes\SmartQuant.Simulation\obj\Release\SmartQuant.Simulation.dll
+E:\Finance\SmartQuant.Changes\SmartQuant.Simulation\obj\Release\SmartQuant.Simulation.pdb

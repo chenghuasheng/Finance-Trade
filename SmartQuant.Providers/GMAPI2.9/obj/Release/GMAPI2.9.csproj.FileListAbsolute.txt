@@ -1,0 +1,10 @@
+E:\Finance\GMAPI2Test\GMAPI2.9\bin\Release\GMAPI29.dll
+E:\Finance\GMAPI2Test\GMAPI2.9\bin\Release\GMAPI29.pdb
+E:\Finance\GMAPI2Test\GMAPI2.9\obj\Release\GMAPI29.dll
+E:\Finance\GMAPI2Test\GMAPI2.9\obj\Release\GMAPI29.pdb
+E:\Finance\GMAPI2Test\GMAPI2.9\obj\Release\GMAPI2.9.csprojResolveAssemblyReference.cache
+E:\Finance\SmartQuant.Providers\GMAPI2.9\bin\Release\GMAPI29.dll
+E:\Finance\SmartQuant.Providers\GMAPI2.9\bin\Release\GMAPI29.pdb
+E:\Finance\SmartQuant.Providers\GMAPI2.9\obj\Release\GMAPI29.dll
+E:\Finance\SmartQuant.Providers\GMAPI2.9\obj\Release\GMAPI29.pdb
+E:\Finance\SmartQuant.Providers\GMAPI2.9\obj\Release\GMAPI2.9.csprojResolveAssemblyReference.cache

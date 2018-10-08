@@ -1,0 +1,16 @@
+E:\Finance\Strategy.Assistants\Strategy.CrossPool\bin\Release\Strategy.CrossPool.dll
+E:\Finance\Strategy.Assistants\Strategy.CrossPool\bin\Release\Strategy.CrossPool.pdb
+E:\Finance\Strategy.Assistants\Strategy.CrossPool\bin\Release\SmartQuant.dll
+E:\Finance\Strategy.Assistants\Strategy.CrossPool\bin\Release\SmartQuant.FIX.dll
+E:\Finance\Strategy.Assistants\Strategy.CrossPool\bin\Release\SmartQuant.Instruments.dll
+E:\Finance\Strategy.Assistants\Strategy.CrossPool\bin\Release\SmartQuant.Charting.dll
+E:\Finance\Strategy.Assistants\Strategy.CrossPool\bin\Release\SmartQuant.Series.dll
+E:\Finance\Strategy.Assistants\Strategy.CrossPool\bin\Release\SmartQuant.Providers.dll
+E:\Finance\Strategy.Assistants\Strategy.CrossPool\bin\Release\SmartQuant.Data.dll
+E:\Finance\Strategy.Assistants\Strategy.CrossPool\bin\Release\SmartQuant.FIXData.dll
+E:\Finance\Strategy.Assistants\Strategy.CrossPool\bin\Release\SmartQuant.File.dll
+E:\Finance\Strategy.Assistants\Strategy.CrossPool\bin\Release\SmartQuant.Quant.dll
+E:\Finance\Strategy.Assistants\Strategy.CrossPool\bin\Release\SharpZipLib.dll
+E:\Finance\Strategy.Assistants\Strategy.CrossPool\obj\Release\Strategy.CrossPool.csprojResolveAssemblyReference.cache
+E:\Finance\Strategy.Assistants\Strategy.CrossPool\obj\Release\Strategy.CrossPool.dll
+E:\Finance\Strategy.Assistants\Strategy.CrossPool\obj\Release\Strategy.CrossPool.pdb

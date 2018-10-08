@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{C9A4217D-54CA-404E-9035-172859EC3642}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Library</OutputType>
+    <AssemblyName>SmartQuant.Trading</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <WarningLevel>4</WarningLevel>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System.Design" />
+    <Reference Include="SmartQuant.Charting">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.Charting.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartQuant.Optimization">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System" />
+    <Reference Include="SmartQuant.Instruments">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.Instruments.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartQuant.Testing">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.Testing.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartQuant.Providers">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.Providers.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartQuant.Services">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartQuant.Execution">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.Execution.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartQuant.FIX">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.FIX.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartQuant.Data">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartQuant.FIXData">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.FIXData.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartQuant">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="SmartQuant.Series">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.Series.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartQuant.Simulation">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\SmartQuant Ltd\QuantDeveloper .NET\bin\SmartQuant.Simulation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SmartQuant.Trading.Conditions\Condition.cs" />
+    <Compile Include="SmartQuant.Trading.Conditions\CrossLevelCondition.cs" />
+    <Compile Include="SmartQuant.Trading.Conditions\CrossSeriesCondition.cs" />
+    <Compile Include="SmartQuant.Trading.Conditions\EntryRule.cs" />
+    <Compile Include="SmartQuant.Trading.Conditions\RuleItem.cs" />
+    <Compile Include="SmartQuant.Trading.Conditions\RuleItemList.cs" />
+    <Compile Include="SmartQuant.Trading.Conditions\RulesParser.cs" />
+    <Compile Include="SmartQuant.Trading.Conditions\SignalItem.cs" />
+    <Compile Include="SmartQuant.Trading.Conditions\SignalItemType.cs" />
+    <Compile Include="SmartQuant.Trading.Design\ATSComponentTypeEditor.cs" />
+    <Compile Include="SmartQuant.Trading.Design\ATSCrossComponentTypeEditor.cs" />
+    <Compile Include="SmartQuant.Trading.Design\ComboBoxItem.cs" />
+    <Compile Include="SmartQuant.Trading.Design\ComboBoxTypeEditor.cs" />
+    <Compile Include="SmartQuant.Trading.Design\ComponentTypeConverter.cs" />
+    <Compile Include="SmartQuant.Trading.Design\ComponentTypeEditor.cs" />
+    <Compile Include="SmartQuant.Trading.Design\CrossEntryTypeEditor.cs" />
+    <Compile Include="SmartQuant.Trading.Design\CrossExitTypeEditor.cs" />
+    <Compile Include="SmartQuant.Trading.Design\EntryTypeEditor.cs" />
+    <Compile Include="SmartQuant.Trading.Design\ExecutionManagerTypeEditor.cs" />
+    <Compile Include="SmartQuant.Trading.Design\ExecutionProviderTypeEditor.cs" />
+    <Compile Include="SmartQuant.Trading.Design\ExecutionServiceTypeEditor.cs" />
+    <Compile Include="SmartQuant.Trading.Design\ExitTypeEditor.cs" />
+    <Compile Include="SmartQuant.Trading.Design\ExposureManagerTypeEditor.cs" />
+    <Compile Include="SmartQuant.Trading.Design\MarketDataProviderTypeEditor.cs" />
+    <Compile Include="SmartQuant.Trading.Design\MarketManagerTypeEditor.cs" />
+    <Compile Include="SmartQuant.Trading.Design\MetaExposureManagerTypeEditor.cs" />
+    <Compile Include="SmartQuant.Trading.Design\MetaMoneyManagerTypeEditor.cs" />
+    <Compile Include="SmartQuant.Trading.Design\MetaRiskManagerTypeEditor.cs" />
+    <Compile Include="SmartQuant.Trading.Design\MoneyManagerTypeEditor.cs" />
+    <Compile Include="SmartQuant.Trading.Design\NewRequestForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SmartQuant.Trading.Design\OptimizationManagerTypeEditor.cs" />
+    <Compile Include="SmartQuant.Trading.Design\PortfolioTypeEditor.cs" />
+    <Compile Include="SmartQuant.Trading.Design\ProviderTypeConverter.cs" />
+    <Compile Include="SmartQuant.Trading.Design\ReportManagerTypeEditor.cs" />
+    <Compile Include="SmartQuant.Trading.Design\RequestListEditor.cs" />
+    <Compile Include="SmartQuant.Trading.Design\RiskManagerTypeEditor.cs" />
+    <Compile Include="SmartQuant.Trading.Design\ServiceTypeConverter.cs" />
+    <Compile Include="SmartQuant.Trading.Design\SimulationManagerTypeEditor.cs" />
+    <Compile Include="SmartQuant.Trading\ATSComponent.cs" />
+    <Compile Include="SmartQuant.Trading\ATSCrossComponent.cs" />
+    <Compile Include="SmartQuant.Trading\ATSMetaStrategy.cs" />
+    <Compile Include="SmartQuant.Trading\ATSStop.cs" />
+    <Compile Include="SmartQuant.Trading\ATSStrategy.cs" />
+    <Compile Include="SmartQuant.Trading\ATSStrategyMultiComponent.cs" />
+    <Compile Include="SmartQuant.Trading\ATSStrategySingleComponent.cs" />
+    <Compile Include="SmartQuant.Trading\BarSlice.cs" />
+    <Compile Include="SmartQuant.Trading\BarSliceManager.cs" />
+    <Compile Include="SmartQuant.Trading\BoolParam.cs" />
+    <Compile Include="SmartQuant.Trading\ComponentBase.cs" />
+    <Compile Include="SmartQuant.Trading\ComponentEventArgs.cs" />
+    <Compile Include="SmartQuant.Trading\ComponentEventHandler.cs" />
+    <Compile Include="SmartQuant.Trading\ComponentRecord.cs" />
+    <Compile Include="SmartQuant.Trading\ComponentType.cs" />
+    <Compile Include="SmartQuant.Trading\ComponentTypeEventArgs.cs" />
+    <Compile Include="SmartQuant.Trading\ComponentTypeEventHandler.cs" />
+    <Compile Include="SmartQuant.Trading\CrossEntry.cs" />
+    <Compile Include="SmartQuant.Trading\CrossExit.cs" />
+    <Compile Include="SmartQuant.Trading\DoubleParam.cs" />
+    <Compile Include="SmartQuant.Trading\Entry.cs" />
+    <Compile Include="SmartQuant.Trading\EntryEventArgs.cs" />
+    <Compile Include="SmartQuant.Trading\EntryEventHandler.cs" />
+    <Compile Include="SmartQuant.Trading\ExecutionManager.cs" />
+    <Compile Include="SmartQuant.Trading\ExecutionServiceDispatcher.cs" />
+    <Compile Include="SmartQuant.Trading\Exit.cs" />
+    <Compile Include="SmartQuant.Trading\ExitEventArgs.cs" />
+    <Compile Include="SmartQuant.Trading\ExitEventHandler.cs" />
+    <Compile Include="SmartQuant.Trading\ExposureManager.cs" />
+    <Compile Include="SmartQuant.Trading\IComponentBase.cs" />
+    <Compile Include="SmartQuant.Trading\IMetaStrategyComponent.cs" />
+    <Compile Include="SmartQuant.Trading\IntParam.cs" />
+    <Compile Include="SmartQuant.Trading\IStop.cs" />
+    <Compile Include="SmartQuant.Trading\IStrategyComponent.cs" />
+    <Compile Include="SmartQuant.Trading\MarketDataDispatcher.cs" />
+    <Compile Include="SmartQuant.Trading\MarketManager.cs" />
+    <Compile Include="SmartQuant.Trading\MetaExposureManager.cs" />
+    <Compile Include="SmartQuant.Trading\MetaMoneyManager.cs" />
+    <Compile Include="SmartQuant.Trading\MetaRiskManager.cs" />
+    <Compile Include="SmartQuant.Trading\MetaStrategy.cs" />
+    <Compile Include="SmartQuant.Trading\MetaStrategyBase.cs" />
+    <Compile Include="SmartQuant.Trading\MetaStrategyBaseComponent.cs" />
+    <Compile Include="SmartQuant.Trading\MetaStrategyComponent.cs" />
+    <Compile Include="SmartQuant.Trading\MetaStrategyErrorEventArgs.cs" />
+    <Compile Include="SmartQuant.Trading\MetaStrategyErrorEventHandler.cs" />
+    <Compile Include="SmartQuant.Trading\MetaStrategyMode.cs" />
+    <Compile Include="SmartQuant.Trading\MoneyManager.cs" />
+    <Compile Include="SmartQuant.Trading\MultiInstrumentComponent.cs" />
+    <Compile Include="SmartQuant.Trading\NamedOrderTable.cs" />
+    <Compile Include="SmartQuant.Trading\OptimizationManager.cs" />
+    <Compile Include="SmartQuant.Trading\OrderProcessor.cs" />
+    <Compile Include="SmartQuant.Trading\OrderServicePair.cs" />
+    <Compile Include="SmartQuant.Trading\OrderTable.cs" />
+    <Compile Include="SmartQuant.Trading\PortfolioStop.cs" />
+    <Compile Include="SmartQuant.Trading\ProviderDispatcher.cs" />
+    <Compile Include="SmartQuant.Trading\ReportManager.cs" />
+    <Compile Include="SmartQuant.Trading\RequestList.cs" />
+    <Compile Include="SmartQuant.Trading\RiskManager.cs" />
+    <Compile Include="SmartQuant.Trading\SeriesParam.cs" />
+    <Compile Include="SmartQuant.Trading\ServiceDispatcher.cs" />
+    <Compile Include="SmartQuant.Trading\Signal.cs" />
+    <Compile Include="SmartQuant.Trading\SignalEventArgs.cs" />
+    <Compile Include="SmartQuant.Trading\SignalEventHandler.cs" />
+    <Compile Include="SmartQuant.Trading\SignalList.cs" />
+    <Compile Include="SmartQuant.Trading\SignalSide.cs" />
+    <Compile Include="SmartQuant.Trading\SignalStatus.cs" />
+    <Compile Include="SmartQuant.Trading\SignalType.cs" />
+    <Compile Include="SmartQuant.Trading\SimulationManager.cs" />
+    <Compile Include="SmartQuant.Trading\SingleInstrumentComponent.cs" />
+    <Compile Include="SmartQuant.Trading\Stop.cs" />
+    <Compile Include="SmartQuant.Trading\StopBase.cs" />
+    <Compile Include="SmartQuant.Trading\StopEventArgs.cs" />
+    <Compile Include="SmartQuant.Trading\StopEventHandler.cs" />
+    <Compile Include="SmartQuant.Trading\StopFillMode.cs" />
+    <Compile Include="SmartQuant.Trading\StopList.cs" />
+    <Compile Include="SmartQuant.Trading\StopMode.cs" />
+    <Compile Include="SmartQuant.Trading\StopStatus.cs" />
+    <Compile Include="SmartQuant.Trading\StopType.cs" />
+    <Compile Include="SmartQuant.Trading\Strategy.cs" />
+    <Compile Include="SmartQuant.Trading\StrategyBase.cs" />
+    <Compile Include="SmartQuant.Trading\StrategyBaseMultiComponent.cs" />
+    <Compile Include="SmartQuant.Trading\StrategyBaseSingleComponent.cs" />
+    <Compile Include="SmartQuant.Trading\StrategyComponentAttribute.cs" />
+    <Compile Include="SmartQuant.Trading\StrategyComponentList.cs" />
+    <Compile Include="SmartQuant.Trading\StrategyComponentManager.cs" />
+    <Compile Include="SmartQuant.Trading\StrategyEventArgs.cs" />
+    <Compile Include="SmartQuant.Trading\StrategyEventHandler.cs" />
+    <Compile Include="SmartQuant.Trading\StrategyList.cs" />
+    <Compile Include="SmartQuant.Trading\StrategyMultiComponent.cs" />
+    <Compile Include="SmartQuant.Trading\StrategySingleComponent.cs" />
+    <Compile Include="SmartQuant.Trading\Trigger.cs" />
+    <Compile Include="SmartQuant.Trading\TriggerEventArgs.cs" />
+    <Compile Include="SmartQuant.Trading\TriggerEventHandler.cs" />
+    <Compile Include="SmartQuant.Trading\TriggerList.cs" />
+    <Compile Include="SmartQuant.Trading\TriggerStatus.cs" />
+    <Compile Include="SmartQuant.Trading\TriggerType.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="SmartQuant.Trading.Design\NewRequestForm.resx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,16 @@
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMAPI2TestConsole\bin\Release\GMAPI2TestConsole.exe
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMAPI2TestConsole\bin\Release\GMAPI2TestConsole.pdb
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMAPI2TestConsole\bin\Release\GMAPI.dll
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMAPI2TestConsole\bin\Release\GMAPI.pdb
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMAPI2TestConsole\obj\Release\GMAPI2TestConsole.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMAPI2TestConsole\obj\Release\GMAPI2TestConsole.exe
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMAPI2TestConsole\obj\Release\GMAPI2TestConsole.pdb
+E:\Finance\GMAPI2Test\GMAPI2TestConsole\bin\Release\GMAPI2TestConsole.exe
+E:\Finance\GMAPI2Test\GMAPI2TestConsole\bin\Release\GMAPI2TestConsole.pdb
+E:\Finance\GMAPI2Test\GMAPI2TestConsole\bin\Release\GMAPI29.dll
+E:\Finance\GMAPI2Test\GMAPI2TestConsole\bin\Release\GMAPI29.pdb
+E:\Finance\GMAPI2Test\GMAPI2TestConsole\obj\Release\GMAPI2TestConsole.csprojResolveAssemblyReference.cache
+E:\Finance\GMAPI2Test\GMAPI2TestConsole\obj\Release\GMAPI2TestConsole.exe
+E:\Finance\GMAPI2Test\GMAPI2TestConsole\obj\Release\GMAPI2TestConsole.pdb
+E:\Finance\GMAPI2Test\GMAPI2TestConsole\bin\Release\SinaQuoter.dll
+E:\Finance\GMAPI2Test\GMAPI2TestConsole\bin\Release\SinaQuoter.pdb

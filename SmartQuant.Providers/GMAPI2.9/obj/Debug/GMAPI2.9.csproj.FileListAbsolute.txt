@@ -1,0 +1,5 @@
+E:\Finance\SmartQuant.Providers\GMAPI2.9\bin\Debug\GMAPI29.dll
+E:\Finance\SmartQuant.Providers\GMAPI2.9\bin\Debug\GMAPI29.pdb
+E:\Finance\SmartQuant.Providers\GMAPI2.9\obj\Debug\GMAPI2.9.csprojResolveAssemblyReference.cache
+E:\Finance\SmartQuant.Providers\GMAPI2.9\obj\Debug\GMAPI29.dll
+E:\Finance\SmartQuant.Providers\GMAPI2.9\obj\Debug\GMAPI29.pdb

@@ -1,0 +1,4 @@
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMAPI2\bin\Debug\GMAPI2.dll
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMAPI2\bin\Debug\GMAPI2.pdb
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMAPI2\obj\Debug\GMAPI2.dll
+F:\Documents\Visual Studio 2015\Projects\GMAPI2Test\GMAPI2\obj\Debug\GMAPI2.pdb

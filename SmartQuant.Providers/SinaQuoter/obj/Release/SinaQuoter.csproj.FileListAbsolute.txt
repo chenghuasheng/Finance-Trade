@@ -1,0 +1,14 @@
+E:\Finance\GMAPI2Test\SinaQuoter\bin\Release\SinaQuoter.dll
+E:\Finance\GMAPI2Test\SinaQuoter\bin\Release\SinaQuoter.pdb
+E:\Finance\GMAPI2Test\SinaQuoter\obj\Release\SinaQuoter.csprojResolveAssemblyReference.cache
+E:\Finance\GMAPI2Test\SinaQuoter\obj\Release\SinaQuoter.dll
+E:\Finance\GMAPI2Test\SinaQuoter\obj\Release\SinaQuoter.pdb
+E:\Finance\GMAPI2Test\SinaQuoter\bin\Release\GMAPI29.dll
+E:\Finance\GMAPI2Test\SinaQuoter\bin\Release\GMAPI29.pdb
+E:\Finance\SmartQuant.Providers\SinaQuoter\bin\Release\SinaQuoter.dll
+E:\Finance\SmartQuant.Providers\SinaQuoter\bin\Release\SinaQuoter.pdb
+E:\Finance\SmartQuant.Providers\SinaQuoter\bin\Release\GMAPI29.dll
+E:\Finance\SmartQuant.Providers\SinaQuoter\bin\Release\GMAPI29.pdb
+E:\Finance\SmartQuant.Providers\SinaQuoter\obj\Release\SinaQuoter.csprojResolveAssemblyReference.cache
+E:\Finance\SmartQuant.Providers\SinaQuoter\obj\Release\SinaQuoter.dll
+E:\Finance\SmartQuant.Providers\SinaQuoter\obj\Release\SinaQuoter.pdb

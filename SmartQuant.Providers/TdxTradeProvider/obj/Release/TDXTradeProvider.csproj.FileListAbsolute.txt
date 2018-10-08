@@ -1,0 +1,48 @@
+C:\Users\tianz\Documents\Visual Studio 2015\Projects\TradeTest\TdxTradeProvider\bin\Release\TDXTradeProvider.dll
+C:\Users\tianz\Documents\Visual Studio 2015\Projects\TradeTest\TdxTradeProvider\bin\Release\TDXTradeProvider.pdb
+C:\Users\tianz\Documents\Visual Studio 2015\Projects\TradeTest\TdxTradeProvider\bin\Release\SmartQuant.FIX.dll
+C:\Users\tianz\Documents\Visual Studio 2015\Projects\TradeTest\TdxTradeProvider\bin\Release\SmartQuant.Instruments.dll
+C:\Users\tianz\Documents\Visual Studio 2015\Projects\TradeTest\TdxTradeProvider\bin\Release\SmartQuant.Providers.dll
+C:\Users\tianz\Documents\Visual Studio 2015\Projects\TradeTest\TdxTradeProvider\bin\Release\SmartQuant.Series.dll
+C:\Users\tianz\Documents\Visual Studio 2015\Projects\TradeTest\TdxTradeProvider\bin\Release\SmartQuant.Data.dll
+C:\Users\tianz\Documents\Visual Studio 2015\Projects\TradeTest\TdxTradeProvider\bin\Release\SmartQuant.FIXData.dll
+C:\Users\tianz\Documents\Visual Studio 2015\Projects\TradeTest\TdxTradeProvider\bin\Release\SmartQuant.Charting.dll
+C:\Users\tianz\Documents\Visual Studio 2015\Projects\TradeTest\TdxTradeProvider\bin\Release\SmartQuant.File.dll
+C:\Users\tianz\Documents\Visual Studio 2015\Projects\TradeTest\TdxTradeProvider\bin\Release\SmartQuant.dll
+C:\Users\tianz\Documents\Visual Studio 2015\Projects\TradeTest\TdxTradeProvider\bin\Release\SmartQuant.Quant.dll
+C:\Users\tianz\Documents\Visual Studio 2015\Projects\TradeTest\TdxTradeProvider\bin\Release\SharpZipLib.dll
+C:\Users\tianz\Documents\Visual Studio 2015\Projects\TradeTest\TdxTradeProvider\obj\Release\TDXTradeProvider.csprojResolveAssemblyReference.cache
+C:\Users\tianz\Documents\Visual Studio 2015\Projects\TradeTest\TdxTradeProvider\obj\Release\TDXTradeProvider.dll
+C:\Users\tianz\Documents\Visual Studio 2015\Projects\TradeTest\TdxTradeProvider\obj\Release\TDXTradeProvider.pdb
+E:\Finance\TradeTest\TdxTradeProvider\bin\Release\TDXTradeProvider.dll
+E:\Finance\TradeTest\TdxTradeProvider\bin\Release\TDXTradeProvider.pdb
+E:\Finance\TradeTest\TdxTradeProvider\bin\Release\SmartQuant.Execution.dll
+E:\Finance\TradeTest\TdxTradeProvider\bin\Release\SmartQuant.Services.dll
+E:\Finance\TradeTest\TdxTradeProvider\bin\Release\SmartQuant.dll
+E:\Finance\TradeTest\TdxTradeProvider\bin\Release\SmartQuant.Series.dll
+E:\Finance\TradeTest\TdxTradeProvider\bin\Release\SmartQuant.Data.dll
+E:\Finance\TradeTest\TdxTradeProvider\bin\Release\SmartQuant.FIXData.dll
+E:\Finance\TradeTest\TdxTradeProvider\bin\Release\SmartQuant.Charting.dll
+E:\Finance\TradeTest\TdxTradeProvider\bin\Release\SmartQuant.File.dll
+E:\Finance\TradeTest\TdxTradeProvider\bin\Release\SmartQuant.Xml.dll
+E:\Finance\TradeTest\TdxTradeProvider\bin\Release\SmartQuant.Quant.dll
+E:\Finance\TradeTest\TdxTradeProvider\bin\Release\SharpZipLib.dll
+E:\Finance\TradeTest\TdxTradeProvider\obj\Release\TDXTradeProvider.csprojResolveAssemblyReference.cache
+E:\Finance\TradeTest\TdxTradeProvider\obj\Release\TDXTradeProvider.dll
+E:\Finance\TradeTest\TdxTradeProvider\obj\Release\TDXTradeProvider.pdb
+E:\Finance\SmartQuant.Providers\TdxTradeProvider\bin\Release\TDXTradeProvider.dll
+E:\Finance\SmartQuant.Providers\TdxTradeProvider\bin\Release\TDXTradeProvider.pdb
+E:\Finance\SmartQuant.Providers\TdxTradeProvider\bin\Release\SmartQuant.dll
+E:\Finance\SmartQuant.Providers\TdxTradeProvider\bin\Release\SmartQuant.Execution.dll
+E:\Finance\SmartQuant.Providers\TdxTradeProvider\bin\Release\SmartQuant.Services.dll
+E:\Finance\SmartQuant.Providers\TdxTradeProvider\bin\Release\SmartQuant.Series.dll
+E:\Finance\SmartQuant.Providers\TdxTradeProvider\bin\Release\SmartQuant.Data.dll
+E:\Finance\SmartQuant.Providers\TdxTradeProvider\bin\Release\SmartQuant.FIXData.dll
+E:\Finance\SmartQuant.Providers\TdxTradeProvider\bin\Release\SmartQuant.Charting.dll
+E:\Finance\SmartQuant.Providers\TdxTradeProvider\bin\Release\SmartQuant.File.dll
+E:\Finance\SmartQuant.Providers\TdxTradeProvider\bin\Release\SmartQuant.Xml.dll
+E:\Finance\SmartQuant.Providers\TdxTradeProvider\bin\Release\SmartQuant.Quant.dll
+E:\Finance\SmartQuant.Providers\TdxTradeProvider\bin\Release\SharpZipLib.dll
+E:\Finance\SmartQuant.Providers\TdxTradeProvider\obj\Release\TDXTradeProvider.csprojResolveAssemblyReference.cache
+E:\Finance\SmartQuant.Providers\TdxTradeProvider\obj\Release\TDXTradeProvider.dll
+E:\Finance\SmartQuant.Providers\TdxTradeProvider\obj\Release\TDXTradeProvider.pdb
