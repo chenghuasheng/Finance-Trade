@@ -117,7 +117,7 @@ public class SaveRandomTradeRecordsJob:Job{
 				int i=0;
 				int m=trades.Count;
 				if (m>0){
-					while(i<m&&(trades[i].DateTime<=lastTrade.DateTime||trades[i].Price>=curDaily.High)){
+					while(i<m&&(trades[i].DateTime<=lastTrade.DateTime||trades[i].Price>=curDaily.High)){//防止以涨停价成交，因为这是买不到的
 						i++;
 					}
 					if (i<m) nextTrade=trades[i];

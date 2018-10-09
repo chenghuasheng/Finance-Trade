@@ -19,7 +19,7 @@ public class DQNTrainJob:Job{
 	protected override bool doJob(){
 		string beginDateString=Utils.FormatDate(this.beginDate);
 		string endDateString=Utils.FormatDate(this.endDate);
-		string args=string.Format("{0} {1} -n 60 -i True",beginDateString,endDateString);
+		string args=string.Format("{0} {1} -n 4 -i True",beginDateString,endDateString);
 		Console.WriteLine("开始训练：{0}",args);
 		CMDAgent.RunPythonScript(@"E:\pyfiles\trade_dqn_v2.0\trade_learning.py",args);
 		return true;

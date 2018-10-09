@@ -33,7 +33,7 @@ public static class DQNTradeDBAccess{
 		eleArray1[0]=new BsonElement("HoldingPeriod",holdingPeriod);
 		eleArray1[1]=new BsonElement("Profit",profit);
 		eleArray1[2]=new BsonElement("Closed",true);
-		update.Add(new BsonElement("$set",new BsonDocument(eleArray)));
+		update.Add(new BsonElement("$set",new BsonDocument(eleArray1)));
 		collection.Update(query, update);
 	}
 	public static void SaveTempRecord(string dateString,string symbol,int holdingPeriod,BsonArray indexDailys,
