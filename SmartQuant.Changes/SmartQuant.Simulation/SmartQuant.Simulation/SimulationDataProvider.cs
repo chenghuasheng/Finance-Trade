@@ -423,7 +423,7 @@ namespace SmartQuant.Simulation
             if (this.seriesNamesToPartitionStore.Contains(seriesSuffix))
             {
                 DateTime curDate = Clock.Now.Date;
-                this.changeStoreFileForTime(curDate);
+                this.ChangeStoreFileForTime(curDate);
                 if (this.lastFile != null)
                 {
                     dataSeries = new DataSeriesList();
@@ -489,7 +489,7 @@ namespace SmartQuant.Simulation
                 this.NewBarSlice(this, new BarSliceEventArgs(args.BarSize, this));
             }
         }
-        protected void changeStoreFileForTime(DateTime lastTime)
+        protected void ChangeStoreFileForTime(DateTime lastTime)
         {
             string curPartition = lastTime.Year.ToString() + "/" + lastTime.Month.ToString();
             if (this.lastFile == null || curPartition != this.lastPartition)
@@ -544,8 +544,8 @@ namespace SmartQuant.Simulation
             Trade trade = null;
             if (this.seriesNamesToPartitionStore.Contains("Trade"))
             {
-                this.changeStoreFileForTime(lastTime);
-                if ((this.lastFile != null))
+                this.ChangeStoreFileForTime(lastTime);
+                if (this.lastFile != null)
                 {
                     string seriesName = symbol + ".Trade";
                     if (this.lastFile.Series.Contains(seriesName))
@@ -593,8 +593,8 @@ namespace SmartQuant.Simulation
             Trade trade = null;
             if (this.seriesNamesToPartitionStore.Contains("Trade"))
             {
-                this.changeStoreFileForTime(lastTime);
-                if ((this.lastFile != null))
+                this.ChangeStoreFileForTime(lastTime);
+                if (this.lastFile != null)
                 {
                     string seriesName = symbol + ".Trade";
                     if (this.lastFile.Series.Contains(seriesName))
@@ -619,14 +619,15 @@ namespace SmartQuant.Simulation
             }
             return trade;
         }
+        //获取多个证券的最后一笔交易
         public Dictionary<string, Trade> GetLastTrades(string[] symbols,DateTime lastTime)
         {
             Dictionary<string, Trade> tradeDict = new Dictionary<string, Trade>();
             
             if (this.seriesNamesToPartitionStore.Contains("Trade"))
             {
-                this.changeStoreFileForTime(lastTime);         
-                if ((this.lastFile != null))
+                this.ChangeStoreFileForTime(lastTime);         
+                if (this.lastFile != null)
                 {
                     foreach (string symbol in symbols)
                     {
@@ -636,7 +637,7 @@ namespace SmartQuant.Simulation
                             FileSeries series = this.lastFile.Series[seriesName];
                             ISeriesObject trade = series[lastTime, SearchOption.Prev];
                             tradeDict.Add(symbol, (Trade)trade);
-                        }
+                        }                  
                     }
                 }
             }
@@ -658,7 +659,38 @@ namespace SmartQuant.Simulation
             }
             return tradeDict;
         }
-
+        public List<Trade> GetTrades(string symbol,DateTime beginTime,DateTime endTime)
+        {
+            List<Trade> trades = new List<Trade>();
+            if (this.seriesNamesToPartitionStore.Contains("Trade"))
+            {
+                this.ChangeStoreFileForTime(beginTime);
+                if (this.lastFile != null)
+                {
+                    string seriesName = symbol + ".Trade";
+                    if (this.lastFile.Series.Contains(seriesName))
+                    {
+                        FileSeries series = this.lastFile.Series[seriesName];
+                        ISeriesObject[] seriesObjs=series.GetArray(beginTime, endTime);
+                        foreach (ISeriesObject seriesObj in seriesObjs) trades.Add((Trade)seriesObj);
+                    }
+                }
+            }
+            else
+            {
+                Instrument inst = InstrumentManager.Instruments[symbol];
+                if (inst != null)
+                {
+                    FileSeries series = (FileSeries)inst.GetDataSeries("Trade");
+                    if (series != null)
+                    {
+                        ISeriesObject[] seriesObjs = series.GetArray(beginTime, endTime);
+                        foreach (ISeriesObject seriesObj in seriesObjs) trades.Add((Trade)seriesObj);
+                    }
+                }
+            }
+            return trades;
+        }
         public List<Daily> GetLastNDailys(string symbol, int n, DateTime lastDate)
         {
             Instrument inst = InstrumentManager.Instruments[symbol];
